@@ -1,4 +1,4 @@
-# <img src="app.ico" width="48" align="center" /> Nova View
+# <img src="app.png" width="48" align="center" /> Nova View
 
 A hyper-modern, glassmorphic image viewer inspired by OS 27 frosted-glass design aesthetics. Built with Python and PyQt6, **Nova View** features a seamless, frameless transparent layout with fluid mouse-centric interaction.
 
@@ -10,8 +10,3 @@ A hyper-modern, glassmorphic image viewer inspired by OS 27 frosted-glass design
 * 📊 **Live Properties HUD:** Toggleable sidebar metadata panel showing resolution, format, and file size details.
 * 🔄 **Pro Transformations:** Instant 90° canvas rotation and horizontal flipping.
 
-## 🛠️ Installation & Setup
-Ensure you have Python 3.10+ and the required UI dependencies installed:
-
-```bash
-pip install PyQt6
