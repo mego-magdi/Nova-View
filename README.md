@@ -10,3 +10,8 @@ A hyper-modern, glassmorphic image viewer inspired by OS 27 frosted-glass design
 * 📊 **Live Properties HUD:** Toggleable sidebar metadata panel showing resolution, format, and file size details.
 * 🔄 **Pro Transformations:** Instant 90° canvas rotation and horizontal flipping.
 
+### 🌌 Minimalist Glass Canvas
+![Nova View Canvas](Nova-View/assets/screenshot2.png)
+
+### 📊 Live Properties HUD
+![Nova View HUD](Nova-View/assets/screenshot1.png)
